@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarmaWay", "KarmaWay\KarmaWay.csproj", "{7C8CAB86-E1CA-45EE-866C-E9B99FF6FF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8CAB86-E1CA-45EE-866C-E9B99FF6FF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8CAB86-E1CA-45EE-866C-E9B99FF6FF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8CAB86-E1CA-45EE-866C-E9B99FF6FF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8CAB86-E1CA-45EE-866C-E9B99FF6FF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EBD7414-D5A8-4146-9592-42687C2D600D}
+	EndGlobalSection
+EndGlobal

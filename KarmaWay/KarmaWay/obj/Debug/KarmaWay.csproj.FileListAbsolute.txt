@@ -1,0 +1,34 @@
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\bin\Debug\KarmaWay.exe.config
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\bin\Debug\KarmaWay.exe
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\bin\Debug\KarmaWay.pdb
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.csprojAssemblyReference.cache
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.KarmaWay.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Properties.Resources.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.csproj.GenerateResource.cache
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.csproj.CoreCompileInputs.cache
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.exe
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.pdb
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Icerik.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Muhasebe.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Urunler.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Musteri.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Islemler.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Siparis.resources
+C:\Users\toshiba 1\source\repos\KarmaWay\KarmaWay\obj\Debug\KarmaWay.YoneticiIslemleri.resources
+D:\KarmaWay\KarmaWay\bin\Debug\KarmaWay.exe.config
+D:\KarmaWay\KarmaWay\bin\Debug\KarmaWay.exe
+D:\KarmaWay\KarmaWay\bin\Debug\KarmaWay.pdb
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.csprojAssemblyReference.cache
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Icerik.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Islemler.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.KarmaWay.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Muhasebe.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Musteri.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Properties.Resources.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Siparis.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.Urunler.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.YoneticiIslemleri.resources
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.csproj.GenerateResource.cache
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.csproj.CoreCompileInputs.cache
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.exe
+D:\KarmaWay\KarmaWay\obj\Debug\KarmaWay.pdb
